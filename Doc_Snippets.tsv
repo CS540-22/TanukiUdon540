@@ -1,4 +1,4 @@
-id	Title	Description	Tags	Image	Type	Link	Date Added
+id	Title	Description	Tags	Image	Type	Information Link	Date Added
 	VRChat Official Documentation	Looking for help setting up your first world? Wanting to understand more advanced concepts like Udon, Networking, and everything in between? Start with the official VRChat Documentation.	beginner, first, official, world, vrchat documentation, creation		doc	https://docs.vrchat.com/docs/creating-your-first-world	
 	Awesome VRChat	A repository of tons of tutorials and resources for creating in VRChat - like this list but bigger and better!	all		doc	https://github.com/madjin/awesome-vrchat	
 	Post Processing and You	SCSS has created an amazing tutorial to help you optimise and improve Post Processing to make your world performant and beautiful. If you are using Post Processing in your world, you should read this page!	post processing, visuals, optimization, lighting, shaders		doc	https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Post-Processing	
