@@ -1,5 +1,5 @@
 # TanukiUdon
-**CS540 Project Proposal**
+**CS540 Final Report**
 
 Bryce Bible, bbible3;  Damian Seals, dseals3
 <hr/>
@@ -11,6 +11,9 @@ In addition to Udon# features, we also plan to implement VRC Avatar SDK Creation
 With VRChat now having nearly 15,000 daily active users, the need for development tools to the poorly documented VRChat-specific Udon language grows every day.
 Using industry-standard software development techniques, many of which exist in the realm of "Software Supply Chain", we can hopefully save VRChat developers countless hours.
 By implementing these techniques, we can allow developers to program more efficiently, more smartly, and with less barrier-to-entry, which is important for a platform that may be home to more less-experienced programmers.
+## What we learned
+* Version control is hard. Especially so when using specific versions of dev software (VRChat requires very specific versions of Unity), version control becomes complex. Additionally, for this project, we wanted to use a combination of GitHub, Plastic SCM, and Unity's collaboration tools to collaborate. Interfacing with multiple version control systems is complex to say the least. It led to the most frustration of anything during the scope of this project. Additionally, having to manage relatively large assets across multiple machines (my home computer, my laptop, Damian's home computer, Damian's laptop, my lab machine...), a lot of time was spent on version control and collaboration. There must be a better way.
+* SDK documentation is incredibly important. The VRChat SDK is not very thorough about actually solving the problems that developers are likely to encounter. I imagine this is par for the course with relatively new tools, as I've encountered very similar documentation for things like Unreal Engine 5. But it's frustrating to have to dig through the SDK's source to actually know what needs to be done to accomplish simple things done a specific way.
 ## Development Process
 We plan to use the most suitable version of Agile for our project, which happens to be the standard Iterative design process. After looking into Scrum and XP, we determined they are overkill. Considering there are only two of us, having a separate product owner and scrum master is simply impossible, and daily 15 minute meetings are also unnecessary. Also with only two of us and one semester to complete the project, focusing on culture instead of processes, like in XP, could very well cost us extra time for no perceivable benefit. Luckily, with our small team size and expected small project overhead, the flexible and low-overhead management and development proccess of Iterative design seems to be ideal. Specifically, we will be doing feature-based milestones and sprints of approximately two weeks.
 ## Customer Value
